@@ -1,0 +1,34 @@
+{
+    "images": [
+        {
+            "imgPath": "img/places/George.png",
+            "imgLocation": "109 Church Road",
+            "description": "Papa George",
+            "date": "01/01/2016"
+        },
+        {
+            "imgPath": "img/places/NorthKorean.jpg",
+            "imgLocation": "North Korean",
+            "description": "Kim jong un",
+            "date": "01/02/2016"
+        },
+        {
+            "imgPath": "img/places/Chad.jpg",
+            "imgLocation": "Chad",
+            "description": "Picture at Chad",
+            "date": "01/03/2016"
+        },
+        {
+            "imgPath": "img/places/Detroit.jpg",
+            "imgLocation": "Detroit",
+            "description": "Don't go there",
+            "date": "01/04/2016"
+        },
+        {
+            "imgPath": "img/places/NY.jpg",
+            "imgLocation": "New York",
+            "description": "I'm walkin here",
+            "date": "01/05/2016"
+        }
+    ]
+}
